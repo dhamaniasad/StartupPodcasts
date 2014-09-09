@@ -9,3 +9,4 @@ StartupPodcasts
 * http://mixergy.com/
 * http://fourhourworkweek.com/category/the-tim-ferriss-show/
 * http://bootstrapped.fm/
+* http://www.smartpassiveincome.com/category/podcast/
