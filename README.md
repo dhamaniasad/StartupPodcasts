@@ -10,3 +10,12 @@ StartupPodcasts
 * http://fourhourworkweek.com/category/the-tim-ferriss-show/
 * http://bootstrapped.fm/
 * http://www.smartpassiveincome.com/category/podcast/
+* http://ecorner.stanford.edu/
+* http://venturevoice.com/
+* http://revision3.com/foundation
+* http://5by5.tv/founderstalk
+* http://www.producthunt.com/radio
+* http://techcrunch.com/video/foundation/
+* http://blogs.hbr.org/ideacast/
+* http://twit.tv/
+* http://thefrankpetersshow.com/
