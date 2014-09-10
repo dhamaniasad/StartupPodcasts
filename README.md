@@ -19,3 +19,10 @@ StartupPodcasts
 * http://blogs.hbr.org/ideacast/
 * http://twit.tv/
 * http://thefrankpetersshow.com/
+* http://startupsuccesspodcast.com/
+* http://blog.asmartbear.com/
+* http://techzinglive.com/
+* http://www.earwolf.com/show/startup-school/
+* http://www.clearshore.net/
+* http://www.tropicalmba.com/
+* http://www.internetbusinessmastery.com/podcast/
