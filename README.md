@@ -26,3 +26,6 @@ StartupPodcasts
 * http://www.clearshore.net/
 * http://www.tropicalmba.com/
 * http://www.internetbusinessmastery.com/podcast/
+* http://thefoundation.com/podcasts/
+* http://productpeople.tv/
+* http://37signals.com/podcast
